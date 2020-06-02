@@ -32,7 +32,7 @@ ReactDom.render(
 
 	SPA 开发 可以 共用一个store 
 
-目录结构如下： ![image-20200508182211319](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200508182211319.png)
+目录结构如下： ![image-20200508182211319](https://gitee.com/supcoolMa/store_pictures/raw/master/img/20200513155147.png)
 
 
 
@@ -44,7 +44,7 @@ base  可 认为是 基础写法， 用于 写一些方法
 
 #### 1、 base:  用于基础语法，用于 自定义 更新 方法 等
 
-![image-20200508182420969](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200508182420969.png)
+![image-20200508182420969](https://gitee.com/supcoolMa/store_pictures/raw/master/img/20200513155148.png)
 
 
 
@@ -399,7 +399,7 @@ ReactDom.render(
 
 ​	全局store目录结构如下： 
 
-![image-20200509165553933](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200509165553933.png)
+![image-20200509165553933](https://gitee.com/supcoolMa/store_pictures/raw/master/img/20200513155149.png)
 
 ####    1、base 为 基础语法  用来更新 状态  
 
@@ -551,7 +551,7 @@ export default class Routers extends React.Component {
 
 layOut 文件夹目录 // 即后台框架样式
 
-![image-20200511103907677](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200511103907677.png)
+![image-20200511103907677](https://gitee.com/supcoolMa/store_pictures/raw/master/img/20200513155150.png)
 
 ```react
 import React from 'react';
