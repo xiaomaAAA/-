@@ -32,7 +32,9 @@ ReactDom.render(
 
 	SPA 开发 可以 共用一个store 
 
-目录结构如下： ![image-20200508182211319](https://gitee.com/supcoolMa/store_pictures/raw/master/img/20200513155147.png)
+目录结构如下： 
+
+![image-20200604082440557](https://gitee.com/supcoolMa/store_pictures/raw/master/img/20200604082448.png)
 
 
 
@@ -40,11 +42,9 @@ base  可 认为是 基础写法， 用于 写一些方法
 
 如 观察变量的 更新， 判断是否是一个 可观察变量
 
-
-
 #### 1、 base:  用于基础语法，用于 自定义 更新 方法 等
 
-![image-20200508182420969](https://gitee.com/supcoolMa/store_pictures/raw/master/img/20200513155148.png)
+![image-20200508182211319](https://gitee.com/supcoolMa/store_pictures/raw/master/img/20200513155147.png)
 
 
 
