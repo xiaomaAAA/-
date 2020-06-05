@@ -1,3 +1,0 @@
- 搭建  脚手架 
- npm i wj-cli -g 拉环境
- wj-cli init  初始化脚手架
